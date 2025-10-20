@@ -1,4 +1,4 @@
-# LLM Knowledge Extractor – Jouster
+# LLM Knowledge Extractor
 
 A lightweight FastAPI service that takes unstructured text, summarizes it, and extracts **structured metadata**. The system persistently stores the analysis in SQLite and allows searching by topic or keyword.
 
